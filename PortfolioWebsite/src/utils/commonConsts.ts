@@ -1,0 +1,1 @@
+export const pages = ['Skills', 'Work Experience', 'Achievements', 'Blogs', 'Resume'];
