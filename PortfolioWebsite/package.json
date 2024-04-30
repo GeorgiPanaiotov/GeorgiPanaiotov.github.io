@@ -1,6 +1,6 @@
 {
   "name": "portfoliowebsite",
-  "homepage": "https://georgipanaiotov.github.io/PortfolioWebsite/build",
+  "homepage": "https://georgipanaiotov.github.io/PortfolioWebsite/dist",
   "private": true,
   "version": "0.0.0",
   "type": "module",
