@@ -1,5 +1,5 @@
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
+// import reactLogo from './assets/react.svg';
+// import viteLogo from '/vite.svg';
 import codingLogo from './assets/coding-28.svg';
 import Header from './components/Header';
 import { Box, Container, createTheme, CssBaseline, PaletteMode, ThemeProvider, Typography } from '@mui/material';
